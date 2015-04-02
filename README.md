@@ -16,3 +16,4 @@ radshiny::createRadShiny('yourAppName', dir = getwd() , nav = nav)
 ```
 
 Here's an example: [nba-2014](http://ec2-23-22-236-244.compute-1.amazonaws.com:3838/nba-2014/)
+What else would be good here? Lemme know.
