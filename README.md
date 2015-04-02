@@ -13,6 +13,7 @@ devtools::install_github('benjh33/radshiny')
 
 nav <- list('page1', 'page2', page3 = list('sub1', 'sub2'))
 radshiny::createRadShiny('yourAppName', dir = getwd() , nav = nav)
+shiny::runApp('yourAppName')
 ```
 
 Here's an example: [nba-2014](http://ec2-23-22-236-244.compute-1.amazonaws.com:3838/nba-2014/)
