@@ -1,0 +1,17 @@
+Package: radshiny
+Type: Package
+Title: Instantiate a Multi-Page Shiny App
+Version: 0.1
+Date: 2015-04-01
+Author: Ben Hunter
+Maintainer: Ben Hunter <bjameshunter@gmail.com>
+Depends: R (>= 3.1.0)
+Description: This package includes a function that creates the skeleton for a
+    multi-page Shiny app similar to that created by Vincent Nijs and seen here:
+    https://github.com/vnijs/radiant.
+License: What license is it under?
+LazyData: TRUE
+Imports:
+    formatR
+Suggests:
+    testthat
