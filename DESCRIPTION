@@ -12,6 +12,5 @@ Description: This package includes a function that creates the skeleton for a
 License: What license is it under?
 LazyData: TRUE
 Imports:
-    formatR
 Suggests:
     testthat
